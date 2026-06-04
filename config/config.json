@@ -1,0 +1,5 @@
+{
+  "interval": 60,
+  "log_level": "INFO",
+  "export_path": "/tmp/sys_metrics.json"
+}
